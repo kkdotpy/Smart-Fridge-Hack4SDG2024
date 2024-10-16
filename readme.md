@@ -25,7 +25,7 @@ Additionally, the data collected is utilized to 3 applications:
 - **Chatbot:** 
   - Ask the chatbot about what’s inside the fridge, expiration dates, or what to cook with the available ingredients.
   
-- **Shopping List Generator:**
+- **Smart Recipe Generator:**
   - Recommends recipes based on available ingredients.
   - Automatically generates a shopping list for missing ingredients.
 
