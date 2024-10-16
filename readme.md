@@ -3,7 +3,7 @@
 ## Overview
 
 This project is a smart fridge platform that helps users track the items inside their fridge. The platform offers two ways to manage inventory:  
-1. **Tapping items** when added or removed from the fridge.  
+1. **Selecting items** when added or removed from the fridge.  
 2. **Barcode scanning** to quickly track items.  
 
 Additionally, the data collected is utilized to 3 applications:  
@@ -15,8 +15,8 @@ Additionally, the data collected is utilized to 3 applications:
 
 ### Inventory Management
 - **Add/Remove Items:**
-  - Track fridge contents by tapping items or scanning barcodes.
-  - Each item can be categorized (e.g., fruit, vegetable).
+  - Track fridge contents by selecting items or scanning barcodes.
+  - Each item are categorized (e.g., fruit, vegetable).
   
 - **Data Visualization:**
   - A dashboard is available to provide insights into the fridge's contents, using charts and other visual representations.
