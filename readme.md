@@ -46,6 +46,10 @@ git clone https://github.com/christopher540/smart-fridge-hack4sdg-2024-final.git
 ```bash
 cd smart-fridge-hack4sdg-2024-final
 ```
+- Make a .env file with the content
+```bash
+API_KEY= 'Your API Key'
+```
 - Run the main application:
 ```bash
 streamlit run main.py
